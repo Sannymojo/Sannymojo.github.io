@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /project.mobirise
-Sitemap: http://lenpromles.ru/sitemap.xml
-Host: lenpromles.ru
-
-
